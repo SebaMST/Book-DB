@@ -1,6 +1,10 @@
 # Book-DB
 Book DB is an offline web application that might be used in order to read and manage pdf books.
 
+**Technologies**
+-Node and Express for the server
+-JSON for simple database file
+
 *** All files MUST follow this naming convention: ***Author 1, ..., Author N - Title - Subtitle (Year, Publisher)***
 
 **Usage**
