@@ -1,0 +1,4 @@
+./node_modules
+./public/document/*
+./public/image/book
+./book-db.json
