@@ -12,7 +12,7 @@ Book DB is an offline web application that might be used in order to read and ma
 
 5) Create a new directory in ```public/image``` named ```book``` which will contain .png normal size images for the book covers;
 
-6) Create another new directory in ```public/image/book``` named ```small``` which will contain .png small (270px * 172px) images for book covers;
+6) Create another new directory in ```public/image/book``` named ```small``` which will contain .png small (242px * 170px) images for book covers;
 
 7) Use ```node createBookDbJson.js``` in the project repository folder, which creates the ```book-db.json``` file. There you might add/remeove book tags;
  
