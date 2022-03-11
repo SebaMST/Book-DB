@@ -1,4 +1,7 @@
-./node_modules
-./public/document/*
-./public/image/book
-./book-db.json
+node_modules
+package-lock.json
+public/document/*
+public/image/book/*
+book-db.json
+book-db-backup.json
+.gitignore
