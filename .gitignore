@@ -1,7 +1,8 @@
 node_modules
 package-lock.json
-public/document/*
 public/image/book/*
+public/document/*
+!public/document/.gitkeep
 book-db.json
 book-db-backup.json
 .gitignore
